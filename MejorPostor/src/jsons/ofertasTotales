@@ -1,0 +1,20 @@
+[
+  {
+    "_oferente": "carlos ",
+    "_horaDesde": 4,
+    "_horaHasta": 8,
+    "cantidadDeHoras": 4,
+    "_monto": 1999.0,
+    "_tipoShow": "Comedia",
+    "_fechaManiana": "27/11/2024"
+  },
+  {
+    "_oferente": "HORGE",
+    "_horaDesde": 5,
+    "_horaHasta": 8,
+    "cantidadDeHoras": 3,
+    "_monto": 2222.0,
+    "_tipoShow": "Comedia",
+    "_fechaManiana": "27/11/2024"
+  }
+]
